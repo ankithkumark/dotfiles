@@ -1,0 +1,22 @@
+{
+  "font_size": 18,
+  "font_face": "Fira Code",
+  "font_options": ["subpixel_antialias"],
+  "color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
+  "theme": "Adaptive.sublime-theme",
+  "word_wrap": true,
+  "ignored_packages":
+  [
+		"Vintage",
+  ],
+  "spellcheck": true,
+  "caret_style": "phase",
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "translate_tabs_to_spaces": true,
+  "bold_folder_labels": true,
+  "save_on_focus_lost": true,
+  "open_files_in_new_window": false,
+  "scroll_past_end": true,
+  "index_files": true,
+}

@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "phase",
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    "terminal.integrated.fontSize": 16,
+}

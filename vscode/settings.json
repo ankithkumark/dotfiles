@@ -7,6 +7,7 @@
     "editor.wordWrap": "on",
     "editor.cursorBlinking": "phase",
     "files.autoSave": "onFocusChange",
-    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    "workbench.colorTheme": "Dracula Theme",
+    #"workbench.colorTheme": "Monokai Pro (Filter Octagon)",
     "terminal.integrated.fontSize": 16,
 }
